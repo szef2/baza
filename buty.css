@@ -1,0 +1,117 @@
+body {
+    background: #FFF;
+    font-family: 'Roboto', 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x:hidden;
+}
+
+
+.header {
+   background-image: url(http://www.footpatrol.co.uk/templates/footpatrol.co.uk/_images//blog/_2013/Nike_Flyknit_Racer_OBL/Nike-Flyknit-Racer-OBL-7.jpg);
+    background-position: center top;
+    background-size: cover;
+    height:  850px;
+    width:  100%;
+    background-attachment: fixed;
+}
+
+
+#start  {
+    margin: auto;
+    position: relative;
+    text-align: center;
+    top: 10%;
+    width: 60%;
+    letter-spacing: 1px;
+}
+
+
+h1  {
+    color: #017890;
+    line-height: 50px;
+    margin: 0px;
+    align-self: center;
+    font-size: 50px;
+    padding: 10px; 
+}
+
+
+h2 {
+    color: #d3d3d3;
+    line-height: 55px;
+    margin: 0;
+    align-self: left;
+    font-size: 25px; 
+}
+
+
+.paragraf1 {
+    margin: 50px 50px;
+    text-align: center;
+    line-height: 40px;
+    padding: 50px;
+    font-size: 25px;
+}
+
+
+.navigation {
+    align-self: center;
+    line-height: 30px;
+    margin: 10px;
+    padding: auto;
+}
+
+.navigation li {
+  color: #666666;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  margin: 17px;
+  text-transform: uppercase;
+  width: 100%;
+  padding: auto;
+}
+
+
+.youtube {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 50%;
+}
+
+.film {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 75%;
+    height: 75%;
+    margin-left: 240px;
+}
+
+
+
+.footer table{
+    color: #666666;
+    background-color: lightgray;
+    display: inline-block;
+    font-size: 13px;   
+    padding: 25px;
+    text-transform: uppercase;
+    width: 100%;
+    height: 10px;
+}
+
+.newsletter-text {
+    font-size: 25px;   
+    text-align:center;  
+}
+
+.newsletter-form {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 95px;
+    
+}
